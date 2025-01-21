@@ -1,7 +1,5 @@
 # Data Manipulation (Domain-HR)
 
-## Case Study
-
 ## Domain – HR
 
 #### focus – Insights from data
